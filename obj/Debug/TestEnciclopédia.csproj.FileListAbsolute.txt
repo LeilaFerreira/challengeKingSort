@@ -1,0 +1,6 @@
+C:\TesteC#\TestEnciclopédia\TestEnciclopédia\bin\Debug\TestEnciclopédia.exe.config
+C:\TesteC#\TestEnciclopédia\TestEnciclopédia\bin\Debug\TestEnciclopédia.exe
+C:\TesteC#\TestEnciclopédia\TestEnciclopédia\bin\Debug\TestEnciclopédia.pdb
+C:\TesteC#\TestEnciclopédia\TestEnciclopédia\obj\Debug\TestEnciclopédia.csprojAssemblyReference.cache
+C:\TesteC#\TestEnciclopédia\TestEnciclopédia\obj\Debug\TestEnciclopédia.exe
+C:\TesteC#\TestEnciclopédia\TestEnciclopédia\obj\Debug\TestEnciclopédia.pdb
